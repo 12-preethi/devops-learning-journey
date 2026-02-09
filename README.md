@@ -4,7 +4,6 @@
 Switch to a DevOps role in 5 months.
 
 ## Constraints
-- Learning using office laptop
 - Browser-only tools
 - Open-source & free platforms
 
